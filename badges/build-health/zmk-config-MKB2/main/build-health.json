@@ -1,13 +1,13 @@
 {
-  "repository": "te9no/zmk-config-MKB2",
+  "repository": "konikatsu/zmk-config-MKB2",
   "branch": "main",
-  "target": "all",
+  "target": "MKB_L_MODULE_ENC|MKB_R_MODULE_TBv4",
   "status": "passing",
   "raw_status": "success",
   "color": "#2ea44f",
-  "sha": "0395f280026046e55f2533b6bb8d4c1741fd02f5",
-  "run_id": "32297761088",
-  "run_number": "127",
-  "run_url": "https://github.com/te9no/zmk-config-MKB2/actions/runs/32297761088",
-  "generated_at": "2026-08-19T20:29:59Z"
+  "sha": "d6302d7cdf91c92d96f6399c2defeac306a62445",
+  "run_id": "32341746039",
+  "run_number": "1",
+  "run_url": "https://github.com/konikatsu/zmk-config-MKB2/actions/runs/32341746039",
+  "generated_at": "2026-08-20T07:03:41Z"
 }
